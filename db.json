@@ -1,6 +1,8 @@
-{
+[
+  {
   "nombre":"Rayo",
   "especie":"perro",
   "edad":5,
   "color":"marrón"
-  }
+}
+  ]
